@@ -1,0 +1,25 @@
+{
+  "updatedAt": "2026-08-05T19:54:32.000Z",
+  "games": [
+    {
+      "id": 10556575185,
+      "rootPlaceId": 102824206949048,
+      "name": "👥 Paint A Avatar",
+      "description": "Paint your favourite avatar block by block. Search avatars, recreate portraits, and paint with friends in real-time.",
+      "visits": 516,
+      "playing": 0,
+      "thumbnailUrl": "https://tr.rbxcdn.com/180DAY-44b1125e9c80f90d312efe4e5ce93953/512/512/Image/Png/noFilter",
+      "label": "Featured"
+    },
+    {
+      "id": 10420582875,
+      "rootPlaceId": 82745432464897,
+      "name": "🧼 Clean Your Keycaps [UPD]",
+      "description": "Scrub, rinse, and polish dirty keycaps. Upgrade your sponges and soap to clean faster.",
+      "visits": 7458436,
+      "playing": 13699,
+      "thumbnailUrl": "https://tr.rbxcdn.com/180DAY-2df35c6510b36ddeccb17420530f4d6e/512/512/Image/Png/noFilter",
+      "label": "Featured"
+    }
+  ]
+}
