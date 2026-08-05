@@ -1,0 +1,9 @@
+{
+  "_howToAddGames": "Paste one Roblox Universe ID per line inside universeIds. Keep the commas between entries.",
+  "universeIds": [
+    10420582875,
+  ],
+  "labels": {
+    "10420582875": "Most popular",
+  }
+}
